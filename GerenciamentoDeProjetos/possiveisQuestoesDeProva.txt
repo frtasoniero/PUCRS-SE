@@ -1,0 +1,3 @@
+Questões de prova:
+	-> O que é um projeto: "Um projeto é um esforço temporario emprrendido para criar um produto, serviço ou resultado exclusivo" (PMBOK 4º ed.)
+	
