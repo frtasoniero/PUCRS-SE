@@ -1,3 +1,12 @@
 Questões de prova:
 	-> O que é um projeto: "Um projeto é um esforço temporario emprrendido para criar um produto, serviço ou resultado exclusivo" (PMBOK 4º ed.)
-	
+	-> Problemas de projeto:
+		Problema de comunicação
+		Não cumprimento dos prazos
+		Escopo não definido
+		Mundança de escopo constante
+		Recursos humanos insuficientes
+		Riscos não avaliados corretamente
+		Não cumprimento do orçamento
+		Estimativas incorretas
+		Relevancia
