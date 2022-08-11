@@ -10,3 +10,10 @@ Questões de prova:
 		Não cumprimento do orçamento
 		Estimativas incorretas
 		Relevancia
+	-> Diferença entre Projeto e Operações continuadas:
+		Projeto						Operações Continuadas
+		Temporarios					Continuos
+		Unicos						Repetitivos
+		Não repetem objetivos		Repetem os objetivos
+		Quando atingidos, 			Quando atingidos, renovam-se
+		o projeto termina
