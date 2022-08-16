@@ -1,5 +1,6 @@
 Questões de prova:
 	-> O que é um projeto: "Um projeto é um esforço temporario emprrendido para criar um produto, serviço ou resultado exclusivo" (PMBOK 4º ed.)
+							Possui inicio e fim!
 	-> Problemas de projeto:
 		Problema de comunicação
 		Não cumprimento dos prazos
@@ -20,3 +21,8 @@ Questões de prova:
 	-> Saber sobre as categorias de projetos:
 		Projetos estratégicos
 		Projotos ...
+	-> Programas e portifólio...
+		Programa é um conjunto de projetos...
+		Portifólio é ...
+	-> O que é gestão de projetos:
+		Gestão de projetos é a aplicação de conhecimentos... (PMI/PMBOK)
