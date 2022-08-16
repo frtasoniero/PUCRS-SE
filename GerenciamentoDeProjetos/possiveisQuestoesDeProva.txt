@@ -17,3 +17,6 @@ Questões de prova:
 		Não repetem objetivos		Repetem os objetivos
 		Quando atingidos, 			Quando atingidos, renovam-se
 		o projeto termina
+	-> Saber sobre as categorias de projetos:
+		Projetos estratégicos
+		Projotos ...
